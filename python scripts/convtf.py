@@ -19,3 +19,4 @@ with open('modele.tflite', 'wb') as f:
 
 # Afficher un message une fois que la conversion et l'optimisation sont terminées
 print("Conversion et optimisation en TFLite terminées !")
+
